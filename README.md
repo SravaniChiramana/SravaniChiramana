@@ -5,9 +5,7 @@
 
 - 🌱 As a fresher, I need a platform to start my career and grow. I am waiting for an opportunity. if I get a job I will definitely do my best.
 
-- ✨✨
-  
-- I have 6 months of internship experience as a Python full-stack developer.
+- ✨✨ I have 6 months of internship experience as a Python full-stack developer.
 
 - I have completed 8 projects out of which 4 are cloud projects.
 
