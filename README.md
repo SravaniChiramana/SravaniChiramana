@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Sravani Chiramana
+👋 Hi, I’m SRAVANI CHIRAMANA
   
 - 😄 welcome to my GitHub profile!. I have completed my post graduation MBA in HR. I'm passionate about software development.
 
