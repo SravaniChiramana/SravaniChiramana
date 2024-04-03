@@ -20,5 +20,5 @@
 - 👩‍💻 One of the things I love about my work is the opportunity to collaborate with others and learn from their expertise. I am always seeking out new challenges and opportunities to expand my skills and
 knowledge, and I am committed to continuous learning and growth.
 
-- 📫 for speaking opportunities, please email I can be reached anytime via email: sravanichiramana56@gmail.com
+- 📫 for speaking opportunities, please email I can be reached anytime via email: sravanichiramana56@gmail.com (or) sravanichiramana1800@gmail.com
 
