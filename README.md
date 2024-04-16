@@ -3,11 +3,9 @@
   
 - 😄 welcome to my GitHub profile!. I have completed my post graduation MBA in HR. I'm passionate about software development.
 
-- 🌱 As a fresher, I need a platform to start my career and grow. I am waiting for an opportunity. if I get a job I will definitely do my best.
+- 🌱 1 year of professional experience as a Python full-stack developer at codebook.
 
-- ✨ I have 6 months of internship experience as a Python full-stack developer.
-
-- 🌟 I have completed 8 projects out of which 4 are cloud projects.
+- 🌟 completed 8 projects out of which 4 are cloud projects.
 
 - 💫 Experienced in working with server-side technologies, including databases and MVT design patterns.
 
@@ -17,8 +15,5 @@
 
 - ⚡ involved in the entire lifecycle of the projects, including design, development, deployment, implementation, and support.
 
-- 👩‍💻 One of the things I love about my work is the opportunity to collaborate with others and learn from their expertise. I am always seeking out new challenges and opportunities to expand my skills and
+- ✨ One of the things I love about my work is the opportunity to collaborate with others and learn from their expertise. I am always seeking out new challenges and opportunities to expand my skills and
 knowledge, and I am committed to continuous learning and growth.
-
-- 📫 for speaking opportunities, please email I can be reached anytime via email: sravanichiramana56@gmail.com (or) sravanichiramana1800@gmail.com
-
